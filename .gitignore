@@ -4,3 +4,5 @@
 *.nc
 
 src/.ipynb_checkpoints
+data/
+figs/
