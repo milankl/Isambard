@@ -1,12 +1,13 @@
 # Isambard
-Scripts to run and analyse ShallowWaters.jl runs on Isambard's A64FX.
-
-The files in this repository are used for
+Software and scripts to reproduce the results in
 
 M Klöwer, S Hatfield, M Croci, PD Düben and TN Palmer, 2021. 
 *Fluid simulations accelerated with 16 bit: Approaching 4x
 speedup on A64FX by squeezing ShallowWaters.jl into Float16*,
 in review. Preprint [10.1002/essoar.10507472.2](https://doi.org/10.1002/essoar.10507472.2)
+
+See also [ShallowWaters.jl](https://github.com/milankl/ShallowWaters.jl) and 
+[Sherlogs.jl](https://github.com/milankl/Sherlogs.jl), two software packages that were used in this study.
 
 The corresponding data is found at 
 
