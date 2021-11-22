@@ -1,4 +1,6 @@
 # Isambard
+[![DOI](https://zenodo.org/badge/373477715.svg)](https://zenodo.org/badge/latestdoi/373477715)
+
 Software and scripts to reproduce the results in
 
 M Klöwer, S Hatfield, M Croci, PD Düben and TN Palmer, 2021. 
